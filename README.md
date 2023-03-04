@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋 my name is Paul Ugbong
+
+### **I am a Data Analyst**
+
+I like colaborating on projects
 
 <!--
 **paul5ive/paul5ive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
